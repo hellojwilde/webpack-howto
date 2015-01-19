@@ -255,8 +255,7 @@ output: {
 
 ## Additional resources
 
-Take a look at a real world example on how a successful team is leveraging webpack: http://youtu.be/VkTCL6Nqm6Y
-This is Pete Hunt as OSCon talking about webpack at Instagram.com
+I [talked at O'Reilly OSCON](http://youtu.be/VkTCL6Nqm6Y) about Instagram.com is successfully leveraging webpack in the real world.
 
 ## FAQ
 
